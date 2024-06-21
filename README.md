@@ -1,1 +1,1 @@
-# check_error_and_update_win
+# Download file zip of gitclone and Run as administrator
